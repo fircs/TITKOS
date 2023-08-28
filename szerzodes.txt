@@ -1,4 +1,4 @@
-Süt a nap, felhőn fekszek
+print("Süt a nap, felhőn fekszek
 Rózsaszín nap szemüvegben,
 Bíbor köd a felhők fölött, ki próbálom, mert máskor is bejön,
 Ez a végtelen kényelmes sziget, néz szét úgysem láttál ilyent,
@@ -42,4 +42,4 @@ Ez marha jó, mint egy léghajó, ez marha jó, mert repülsz mint egy léghajó
 ⠀⡿⢷⣿⠸⡄⠀⠀⣴⡾⠉⠀⠉⠛⠿⢿⣿⣿⡿⢿⣷⣄⠀⠀⢠⡇⣿⡾⢋⠀A
 ⠀⠘⢦⣝⡣⢿⡤⡘⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠋⢀⣤⡿⢘⣭⡴⠃⠀Z
 ⠀⠀⠀⠹⡛⠾⠷⡹⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⢟⠾⠿⣛⠏⠀⠀⠀I**
-⠀⠀⠀⠀⠈⠻⡿⠿⠶⢛⣓⣤⡶⣖⡶⠶⣒⠶⣦⣜⣛⠲⠿⢿⡛⠁⠀⠀NEM LOPOTT!!!!
+⠀⠀⠀⠀⠈⠻⡿⠿⠶⢛⣓⣤⡶⣖⡶⠶⣒⠶⣦⣜⣛⠲⠿⢿⡛⠁⠀⠀NEM LOPOTT!!!!")
